@@ -38,6 +38,13 @@ Folder Structure :open_file_folder:
 python3 predict.py
 ```
 
+## `Output`
+
+
+## `Endpoint`
+
+
+
 ## `References`
 
 [1] <https://www.tensorflow.org/tutorials/keras/regression>
