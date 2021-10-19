@@ -40,4 +40,4 @@ python3 predict.py
 
 ## `Output`
 
-![]()
+![](https://github.com/ranjiGT/DPS-Challenge-Assessment/blob/main/img/prediction.jpg)
