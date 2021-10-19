@@ -30,3 +30,10 @@ Folder Structure :open_file_folder:
     ├── .gitignore
     ├── LICENSE
     └── README.md
+
+## `Usage`
+
+```python
+python3 predict.py
+
+```
