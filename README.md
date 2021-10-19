@@ -32,6 +32,12 @@ Folder Structure :open_file_folder:
     ├── LICENSE
     └── README.md
 
+## `Usage`
+
+```python
+python3 predict.py
+```
+
 ## `References`
 
 [1] <https://www.tensorflow.org/tutorials/keras/regression>
