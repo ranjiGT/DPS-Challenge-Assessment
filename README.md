@@ -40,10 +40,11 @@ python3 predict.py
 
 ## `Output`
 
+![](https://github.com/ranjiGT/DPS-Challenge-Assessment/blob/T-800/img/prediction.jpg)
 
 ## `Endpoint`
 
-
+![](https://github.com/ranjiGT/DPS-Challenge-Assessment/blob/T-800/img/endpoints.jpg)
 
 ## `References`
 
