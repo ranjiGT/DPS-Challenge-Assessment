@@ -42,6 +42,9 @@ python3 predict.py
 
 ![](https://github.com/ranjiGT/DPS-Challenge-Assessment/blob/main/img/prediction.jpg)
 
+## `Video`
+<https://drive.google.com/file/d/1_mY6CL80o3uOo6PIhLVifuAxmdlczWWW/view?usp=sharing>
+
 
 ## `References`
 
