@@ -7,3 +7,7 @@ This is a challenge using Google’s managed ML platform [Vertex AI](https://cod
 ## `Task`
 
  To predict the fuel efficiency of a vehicle using a basic regression with TensorFlow.
+
+## `Datasets`
+
+<https://www.kaggle.com/uciml/autompg-dataset>
