@@ -10,3 +10,23 @@ Using Google’s managed ML platform [Vertex AI](https://codelabs.developers.goo
 <https://www.kaggle.com/uciml/autompg-dataset/code>
 
 (_Task is to predict the fuel efficiency of a vehicle using a basic regression with TensorFlow._)
+
+Folder Structure :open_file_folder:
+============================
+
+> Folder structure and naming conventions for this project
+
+### A top-level directory layout
+
+    .
+    ├── mpg
+          ├── trainer
+          |          └── train                 # training pipeline (.py)
+          └── Dockerfile                       
+    ├── workspace                              # Intermediate files from Vertex platform
+    ├── deploy-output.txt                      # log output from cloud shell                  
+    ├── deploy.py                              # code for deployment
+    ├── predict.py                             # code for prediction 
+    ├── .gitignore
+    ├── LICENSE
+    └── README.md
