@@ -1,5 +1,5 @@
-# DPS-Challenge-Assessment
-DPS challenge task for AI Engineer
+# DPS Challenge Assessment
+_DPS challenge task for AI Engineer_
 
 ## `Preamble` :scroll:
 
