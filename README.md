@@ -37,3 +37,7 @@ Folder Structure :open_file_folder:
 python3 predict.py
 
 ```
+
+## `Output`
+
+![]()
