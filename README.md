@@ -11,3 +11,23 @@ This is a challenge using Google’s managed ML platform [Vertex AI](https://cod
 ## `Datasets`
 
 <https://www.kaggle.com/uciml/autompg-dataset>
+
+Folder Structure :open_file_folder:
+============================
+
+> Folder structure and naming conventions for this project
+
+### A top-level directory layout
+
+    .
+    └── mpg
+          ├── trainer
+          |          └── train.py               # training pipeline (.py)
+          └── Dockerfile                        
+    ├── workspace                               # intermediate files                                
+    ├── deploy-output.txt                       # Cloud shell logs
+    ├── deploy.py                               # code for deployment             
+    ├── predict.py                              # code for prediction             
+    ├── .gitignore
+    ├── LICENSE
+    └── README.md
