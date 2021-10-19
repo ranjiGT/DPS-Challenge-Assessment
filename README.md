@@ -45,4 +45,4 @@ python3 predict.py
 
 ## `References`
 
-<https://www.tensorflow.org/tutorials/keras/regression>
+[1] <https://www.tensorflow.org/tutorials/keras/regression>
