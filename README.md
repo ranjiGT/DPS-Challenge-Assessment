@@ -34,4 +34,4 @@ Folder Structure :open_file_folder:
 
 ## `References`
 
-<https://www.tensorflow.org/tutorials/keras/regression>
+[1] <https://www.tensorflow.org/tutorials/keras/regression>
