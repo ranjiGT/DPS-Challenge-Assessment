@@ -31,3 +31,7 @@ Folder Structure :open_file_folder:
     ├── .gitignore
     ├── LICENSE
     └── README.md
+
+## `References`
+
+<https://www.tensorflow.org/tutorials/keras/regression>
