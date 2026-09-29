@@ -12,7 +12,6 @@ Using Google’s managed ML platform [Vertex AI](https://codelabs.developers.goo
 (_Task is to predict the fuel efficiency of a vehicle using a basic regression with TensorFlow._)
 
 Folder Structure :open_file_folder:
-============================
 
 > Folder structure and naming conventions for this project
 
